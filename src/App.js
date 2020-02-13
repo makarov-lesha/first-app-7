@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>My React App 7</h1>
-      <h2>Author: Alexey Makarov</h2>
+      <h2>Author: Alexey Makarov, continious integration</h2>
     </div>
   );
 }
